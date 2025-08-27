@@ -10,13 +10,13 @@ No installation. No tracking. No file uploads to a server.
 
 ## 🚀 Features
 
-✅ **Resize** images to a maximum dimension of **500px** while preserving format and quality
-✅ **Compress** images to approximately **50kB** using intelligent resolution and quality scaling
-✅ **Optimize** using **both resize & compress** for ultra-efficient results
-✅ **Preserve original filenames**
-✅ **Supports up to 50 images** per session
-✅ **Drag-and-drop interface** — super intuitive and snappy
-✅ **No internet required** after initial load (purely client-side)
+* ✅ **Resize** images to a maximum dimension of **500px** while preserving format and quality
+* ✅ **Compress** images to approximately **50kB** using intelligent resolution and quality scaling
+* ✅ **Optimize** using **both resize & compress** for ultra-efficient results
+* ✅ **Preserve original filenames**
+* ✅ **Supports up to 50 images** per session
+* ✅ **Drag-and-drop interface** — super intuitive and snappy
+* ✅ **No internet required** after initial load (purely client-side)
 
 ---
 
@@ -118,12 +118,6 @@ You can easily:
 
 MIT License – Free for personal and commercial use.
 No attribution required, but always appreciated!
-
----
-
-## 🔗 Demo (Optional)
-
-> *Host `photoResizerOptimiser.html` on any static file host (e.g. GitHub Pages, Netlify) to share a live demo link here.*
 
 ---
 
