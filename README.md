@@ -35,7 +35,7 @@ No installation. No tracking. No file uploads to a server.
 
 ## 📝 Instructions
 
-1. Open `convertCompress.html` in any modern browser (Chrome, Firefox, Edge, Safari)
+1. Open `photoResizerOptimiser.html` in any modern browser (Chrome, Firefox, Edge, Safari)
 2. **Upload** up to 50 images via drag-and-drop or file picker
 3. Choose one of three modes:
 
@@ -85,7 +85,7 @@ Use it confidently for sensitive or personal images.
 Want to host it locally or share with your team?
 
 1. Clone or download this repository
-2. Open `convertCompress.html` in a browser
+2. Open `photoResizerOptimiser.html` in a browser
 3. Done!
 
 ---
@@ -123,7 +123,7 @@ No attribution required, but always appreciated!
 
 ## 🔗 Demo (Optional)
 
-> *Host `convertCompress.html` on any static file host (e.g. GitHub Pages, Netlify) to share a live demo link here.*
+> *Host `photoResizerOptimiser.html` on any static file host (e.g. GitHub Pages, Netlify) to share a live demo link here.*
 
 ---
 
